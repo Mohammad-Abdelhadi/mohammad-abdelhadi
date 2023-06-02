@@ -11,7 +11,9 @@
 
 
 🎓 Degree: I hold a Bachelor's degree in Computer Science.
+<br>
 🌱 I'm currently working as a Full Stack Web and Mobile Developer.
+<br>
 📫 How to reach me: You can contact me at mohammad.b.abdelhad@gmail.com.
 
 
