@@ -30,6 +30,5 @@
 </p>
 
 ----
-Credit: [aliashfak178](https://github.com/aliashfak178)
 
-Last Edited on: 26/01/2021
+Last Edited on: 6/3/2023
