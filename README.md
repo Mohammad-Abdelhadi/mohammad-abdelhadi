@@ -31,11 +31,8 @@
 <a href="https://github.com/Mohammad-Abdelhadi/Git-hub
 ">Code</a>
  <br>
-   ✅ School-Registration: <a href="https://ubiquitous-frangollo-53ba38.netlify.app/
-/">Live</a> /
-<a href="https://github.com/AlaAlmuhsen/School-Regestration-Platform
-
-">Code</a>
+   ✅ School-Registration: <a href="https://ubiquitous-frangollo-53ba38.netlify.app">Live</a> /
+<a href="https://github.com/AlaAlmuhsen/School-Regestration-Platform">Code</a>
  <br>
 
 
