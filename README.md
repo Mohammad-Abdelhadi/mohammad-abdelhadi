@@ -21,7 +21,7 @@
 <a href="https://github.com/Mohammad-Abdelhadi/portfolio-m">Code</a> <br>
 ✅  Finance Tracker: <a href="https://adorable-bombolone-68675d.netlify.app/
 )">Live</a> /
-<a href="https://github.com/Mohammad-Abdelhadi/Finance-Tracker/)">Code</a> <br>
+<a href="https://github.com/Mohammad-Abdelhadi/Finance-Tracker/">Code</a> <br>
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
