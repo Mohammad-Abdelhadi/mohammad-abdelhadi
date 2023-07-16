@@ -1,5 +1,5 @@
 <p align="center">
-https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif
+  <img src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif)" alt="Coder GIF" width="100%" height="400">
 <!--   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="100%" height="400"> -->
   
 </p>
