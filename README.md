@@ -12,9 +12,7 @@
 
 🎓 Degree: I hold a Bachelor's degree in Computer Science.
 <br>
-🌱 I'm currently working as a Full Stack Web and Mobile Developer.
-<br>
-📫 How to reach me:mohammad.b.abdelhadi@gmail.com.
+📫 How to reach me : mohammad.b.abdelhadi@gmail.com.
 <hr> 
 <h3 align="left">Projects : </h3>
 ✅  Portfolio: <a href="https://mohammad-abdelhadi.github.io/portfolio-m/">Live</a> /
