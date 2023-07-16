@@ -32,6 +32,9 @@
    ✅ School-Registration: <a href="https://ubiquitous-frangollo-53ba38.netlify.app">Live</a> /
 <a href="https://github.com/AlaAlmuhsen/School-Regestration-Platform">Code</a>
  <br>
+   ✅ Movie-app: <a href="https://movieapplication2.netlify.app/">Live</a> /
+<a href="https://github.com/Mohammad-Abdelhadi/reactproject">Code</a>
+ <br>
 
 
 
