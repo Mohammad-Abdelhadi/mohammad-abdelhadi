@@ -15,8 +15,8 @@
 📫 How to reach me : mohammad.b.abdelhadi@gmail.com.
 <hr> 
 <h3 align="left">Projects : </h3>
-✅  Portfolio: <a href="https://mohammad-abdelhadi.github.io/portfolio-m/">Live</a> /
-<a href="https://github.com/Mohammad-Abdelhadi/portfolio-m">Code</a> <br>
+✅  Portfolio: <a href="https://mohammad-abdelhadi.github.io/portfolio/">Live</a> /
+<a href="https://github.com/Mohammad-Abdelhadi/portfolio">Code</a> <br>
 ✅  Finance Tracker: <a href="https://adorable-bombolone-68675d.netlify.app/
 ">Live</a> /
 <a href="https://github.com/Mohammad-Abdelhadi/Finance-Tracker/">Code</a> 
