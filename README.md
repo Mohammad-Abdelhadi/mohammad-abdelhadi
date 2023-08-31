@@ -25,7 +25,7 @@
 <a href="https://github.com/Mohammad-Abdelhadi/Last-Edit-AlRyan
 ">Code</a>
  <br>
-  ✅ MyProffesor / Php-Laraevl:(Grauduation Project )
+  ✅ MyProffesor / Php-Laravel <b> (Grauduation Project ) </b>:
 <a href="https://github.com/Mohammad-Abdelhadi/Myprofessor">Code</a>
 
 
