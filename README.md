@@ -1,6 +1,6 @@
 <p align="center">
-<!--   <img src="https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif" alt="Coder GIF" width="100%" height="400"> -->
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="100%" height="400">
+[<!--   <img src="https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif" alt="Coder GIF" width="100%" height="400"> -->
+](https://user-images.githubusercontent.com/75625539/253849889-3f558966-3087-4489-bd67-91d3d91b33c1.gif)  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="100%" height="400">
   
 </p>
 
