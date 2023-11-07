@@ -11,9 +11,6 @@
 <h4 align="center" I hold a Bachelor's degree in <b> computer Science </b> </h4>
 <br>
 <hr>
-<h4 align="center" I hold a Bachelor's degree in <b> computer Science </b>  </h4>
-<br>
-<hr>
 <h4 align="center" <b> How to reach me :</b>  mohammad.b.abdelhadi@gmail.com </h4>
 <br>
 <hr> 
