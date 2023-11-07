@@ -7,11 +7,9 @@
 
 <h1 align="center">Hi 👋, I'm Mohammad Abdelhadi</h1>
 <h3 align="center">I'm Full Stack Web & Mobile Developer </h3>
-<hr>
 <h4 align="center"> I hold a Bachelor's degree in computer Science  </h4>
 <h4 align="center"> How to reach me :  mohammad.b.abdelhadi@gmail.com </h4>
-<br>
-<hr> 
+<hr>
 <h3 align="left">Projects : </h3>
 ✅  Portfolio: <a href="https://mohammad-abdelhadi.github.io/portfolio/">Live</a> /
 <a href="https://github.com/Mohammad-Abdelhadi/portfolio">Code</a> <br>
