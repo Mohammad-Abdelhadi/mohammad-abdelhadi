@@ -52,7 +52,7 @@
 <a href="https://github.com/Mohammad-Abdelhadi/ComplaintAppApiCoreMvc">Code</a>
  <br>
  <hr>
- ✅ OrangeCodingAcademyFinalProject / Full Mern Stack Project: 
+ ✅ Orange Coding Academy Final Project <b>(Barber Appointment System) </b> / Full Mern Stack Project: 
   <br>
 
  - Including Admin Dashboard
