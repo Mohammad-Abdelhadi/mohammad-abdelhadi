@@ -8,14 +8,14 @@
 <h1 align="center">Hi 👋, I'm Mohammad Abdelhadi</h1>
 <h3 align="center">I'm Full Stack Web & Mobile Developer </h3>
 <hr>
-
-
-
-
-
-🎓 Degree: I hold a Bachelor's degree in Computer Science.
+<h4 align="center" I hold a Bachelor's degree in <b> computer Science </b> </h4>
 <br>
-📫 How to reach me : mohammad.b.abdelhadi@gmail.com.
+<hr>
+<h4 align="center" I hold a Bachelor's degree in <b> computer Science </b>  </h4>
+<br>
+<hr>
+<h4 align="center" <b> How to reach me :</b>  mohammad.b.abdelhadi@gmail.com </h4>
+<br>
 <hr> 
 <h3 align="left">Projects : </h3>
 ✅  Portfolio: <a href="https://mohammad-abdelhadi.github.io/portfolio/">Live</a> /
