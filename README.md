@@ -46,15 +46,12 @@
   ✅ Complaint Mangment System  / Asp .Net Core : 
 <a href="https://github.com/Mohammad-Abdelhadi/ComplaintAppApiCoreMvc">Code</a>
  <br>
- <hr>
  ✅ Orange Coding Academy Final Project <b>(Barber Appointment System) </b> / Full Mern Stack Project: 
   <br>
 
  - Including Admin Dashboard
  - Landing Page
  - Mobile Application
-
-
 <a href="https://github.com/Mohammad-Abdelhadi/Codind-academy-ojo-Masterpiece_Co4-2023">
 <button style="backgroundcolor:"black";color:"white">Code <button/>
 </a>
