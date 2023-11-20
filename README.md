@@ -13,7 +13,7 @@
 <h3 align="left">Projects : </h3>
 ✅  Portfolio: <a href="https://mohammad-abdelhadi.github.io/portfolio/">Live</a> /
 <a href="https://github.com/Mohammad-Abdelhadi/portfolio">Code</a> <br>
-✅  Finance Tracker: <a href="https://adorable-bombolone-68675d.netlify.app/
+✅  Finance Tracker: <a href="https://financetrackeer.netlify.app/
 ">Live</a> /
 <a href="https://github.com/Mohammad-Abdelhadi/FinanceTracker/">Code</a> 
 <br>
