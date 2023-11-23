@@ -56,7 +56,7 @@
 <button style="backgroundcolor:"black";color:"white">Code <button/>
 </a>
 <br>
- ✅ Landing Page Eatly: <a https://eastly-landing.netlify.app/">Live</a> /
+ ✅ Landing Page Eatly: <a href="https://eastly-landing.netlify.app/">Live</a> /
 <a href="https://github.com/Mohammad-Abdelhadi/Eastly">Code</a>
  <br>
 <h3 align="left">Languages and Tools:</h3>
