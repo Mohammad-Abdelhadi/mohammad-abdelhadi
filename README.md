@@ -8,6 +8,20 @@
 <h1 align="center">Hi 👋, I'm Mohammad Abdelhadi</h1>
 <h3 align="center">I'm Full Stack Web & Mobile Developer </h3>
 <h3 align="center"> I hold a Bachelor's degree in computer Science  </h3>
+<p> 
+Experienced professional with Two year of experience, adept at successfully building 10 web projects both individually and as part of a team. Skilled in HTML, CSS, JavaScript, React, Node.js, Express, JSON, React Native, and MongoDB. Passionate about delivering high-quality web solutions, staying up to date with the latest technologies, and enhancing user experiences.
+
+Key Skills
+Front-End: React.js, HTML5, CSS3, JavaScript, Bootstrap
+Back-End: Node.js, Express.js, MongoDB, MySQL
+Mobile Development: React Native
+CMS: WordPress, Wix
+APIs: RESTful APIs, JSON
+Tools: Git, GitHub, Trello, Figma, Postman
+Soft Skills: Effective Communication, Problem Solving, Technological Proficiency, Team Collaboration, Adaptability, Continuous Learning, Time Management, Attention to Detail
+
+Let's connect and explore how I can contribute to your next project or opportunity!
+</p>
 <h3 align="center"> How to reach me :  mohammad.b.abdelhadi@gmail.com </h3>
 <hr>
 <h3 align="left">Projects : </h3>
