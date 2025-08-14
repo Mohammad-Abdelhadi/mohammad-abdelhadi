@@ -27,8 +27,8 @@ Let's connect and explore how I can contribute to your next project or opportuni
 <h3 align="left">Projects : </h3>
 ✅  Michael & Son Remodeling: <a href="https://remodeling.michaelandson.com" target="_blank">Live</a>
 <br>
-✅  Portfolio: <a href="https://mohammad-abdelhadi.github.io/portfolio/">Live</a> /
-<a href="https://github.com/Mohammad-Abdelhadi/portfolio">Code</a> <br>
+✅  Portfolio: <a href="https://dapper-tarsier-821912.netlify.app/">Live</a> /
+<a href="https://dapper-tarsier-821912.netlify.app/">Code</a> <br>
 ✅  Finance Tracker: <a href="https://financetrackeer.netlify.app/
 ">Live</a> /
 <a href="https://github.com/Mohammad-Abdelhadi/FinanceTracker/">Code</a> 
